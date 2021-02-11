@@ -4,11 +4,11 @@
 ---
 1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
 
-	* Variables
-	* Strings
-	* Funciones (argumentos, `return`)
-	* Declaraciones `if`
-	* Valores booleanos (`true`, `false`)
+	* Variables: Es una funcion para guardar algo de valor para ultilizar mas tarde se utiliza de las siguiente manera. var nombre= "santiago polo";
+	* Strings: Es un bloque de texto que siempre va estar entre comillas, ej var nombre = "santi"
+	* Funciones (argumentos, `return`): se utiliza para devolver algo importante.
+	* Declaraciones `if`: se utiliza tambien para devolver lo especificado y verficar y algo puede ser "true o false".
+	* Valores booleanos (`true`, `false`): Los booleanos tiene dos opciones falso o verdadero.
 
 
 2. Instalar Node y NPM. NPM se incluye con Node. https://nodejs.org/en/download/
